@@ -157,7 +157,7 @@ Regra de ouro para vigia: Não julgue as pessoas pelo que elas dizem ou pela ima
 
 ## Miniguia de Estudo
 
-Resumos estruturados do assunto:
+Resumo estruturados do assunto:
 ---------------------------------
 
 Minha estratégia de defesa começa no controle absoluto da informação. Ocultar intenções (Lei 3) impede que outros preparem sabotagens, enquanto falar menos do que o necessário (Lei 4) evita revelações tolas e força o oponente a se expor tentando preencher o silêncio
